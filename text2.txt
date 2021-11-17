@@ -1,0 +1,9 @@
+# This is very confidential information
+Name: Love Kisor Bista
+occupation: engineer
+bank account: 1766497123892
+bank : standard chartered bank
+bank balance: 83729497479274
+account id: love.happy@3
+password:pythonworks@well
+
